@@ -19,18 +19,14 @@ What excites me:
 - Implementing efficient algorithms for data-intensive applications
 - Contributing to open-source projects that solve real-world scalability challenges
 
+
+
+
 ## 🔥 Skills & Stats / 技能与统计
 
-![](https://skillicons.dev/icons?i=java,rust,python,spring,docker,kubernetes,redis,postgres,nginx)
-![](https://skillicons.dev/icons?i=ts,react,vue,git,github,linux)
+![](https://skillicons.dev/icons?i=java,python,rust,spring,vue)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhifengmuxue&show_icons=true&theme=radical&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhifengmuxue&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhifengmuxue&theme=radical)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhifengmuxue&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifengmuxue&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📚 Learning Journey / 学习轨迹
-[![Learning Backend Roadmap](https://img.shields.io/badge/Backend%20Roadmap-Following-9cf)](https://roadmap.sh/backend)
-[![Rust Learning](https://img.shields.io/badge/Rust-in%20Progress-orange)](https://github.com/rust-lang/rust)
-[![System Design](https://img.shields.io/badge/System%20Design-Practicing-blueviolet)](https://github.com/donnemartin/system-design-primer)
-
-
-
