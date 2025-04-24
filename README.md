@@ -30,10 +30,16 @@ What excites me:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhifengmuxue&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhifengmuxue&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://github-readme-stats.vercel.app/api?username=zhifengmuxue&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="My GitHub Stats" />
+    </td>
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifengmuxue&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifengmuxue&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhifengmuxue&theme=radical)](https://git.io/streak-stats)
 
 
