@@ -14,7 +14,6 @@ Currently:
 - 🎓 Pursuing studies in distributed microservices architecture, system development, and deep learning
 - 🔧 Building scalable backend systems with Spring Boot and exploring container orchestration using Kubernetes
 - 🧠 Learning AI and deep learning frameworks (TensorFlow, PyTorch) through coursework and side projects
-- 📚 Preparing for cloud certifications (e.g., AWS Cloud Practitioner) to deepen cloud-native development skills
 
 What excites me:
 - ⚙️ Designing and optimizing distributed systems for high availability and low latency
