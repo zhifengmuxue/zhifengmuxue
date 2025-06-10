@@ -11,15 +11,17 @@ As a Computer Science undergraduate passionate about backend architecture, I spe
 
 ## 🚀 About Me / 关于我
 Currently:
-- 🔭 Building RESTful APIs with Spring Boot while learning Kubernetes for container orchestration
-- 🌱 Exploring system design patterns (CAP Theorem, Consensus Algorithms) through academic projects
-- ⚡ Optimizing SQL queries and Redis caching strategies in my side projects
-- 📚 Complementing studies with cloud certifications (AWS Cloud Practitioner in progress)
+- 🎓 Pursuing studies in distributed microservices architecture, system development, and deep learning
+- 🔧 Building scalable backend systems with Spring Boot and exploring container orchestration using Kubernetes
+- 🧠 Learning AI and deep learning frameworks (TensorFlow, PyTorch) through coursework and side projects
+- 📚 Preparing for cloud certifications (e.g., AWS Cloud Practitioner) to deepen cloud-native development skills
 
 What excites me:
-- Solving latency issues in distributed environments
-- Implementing efficient algorithms for data-intensive applications
-- Contributing to open-source projects that solve real-world scalability challenges
+- ⚙️ Designing and optimizing distributed systems for high availability and low latency
+- 🧩 Applying intelligent algorithms to solve real-world problems in data-intensive applications
+- 🌍 Contributing to open-source projects that explore scalable, AI-powered system design
+
+
 
 ## 🔥 Skills & Stats / 技能与统计
 
