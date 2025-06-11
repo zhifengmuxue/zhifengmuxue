@@ -28,7 +28,7 @@ What excites me:
 ![](https://skillicons.dev/icons?i=java,rust,python,spring,docker,kubernetes,redis,postgres,nginx)
 ![](https://skillicons.dev/icons?i=ts,react,vue,git,github,linux)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zfmx)
+
 <table>
   <tr>
     <td width="55%">
@@ -39,6 +39,8 @@ What excites me:
     </td>
   </tr>
 </table>
+
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zfmx)
 
 
 
