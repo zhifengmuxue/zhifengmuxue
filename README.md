@@ -28,9 +28,7 @@ What excites me:
 ![](https://skillicons.dev/icons?i=java,rust,python,spring,docker,kubernetes,redis,postgres,nginx)
 ![](https://skillicons.dev/icons?i=ts,react,vue,git,github,linux)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhifengmuxue&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zfmx)
 <table>
   <tr>
     <td width="55%">
