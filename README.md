@@ -3,7 +3,6 @@
 As a Computer Science undergraduate passionate about backend architecture, I specialize in designing scalable systems using Java/Python with a strong emphasis on clean code principles. My coursework in distributed systems and database design has fueled my interest in microservices architecture and concurrent programming. Welcome to my technical blog where I share insights and experiences on backend architecture, system design, and programming practices.
 🔗 [zhifengmuxue.top](https://zhifengmuxue.top)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/zhifengmuxue&label=PROFILE%20VIEWS&countColor=%23263759)](https://visitorbadge.io/status?path=https://github.com/zhifengmuxue)
 [![GitHub Followers](https://img.shields.io/github/followers/zhifengmuxue?logo=github&style=social)](https://github.com/zhifengmuxue)
 
 
