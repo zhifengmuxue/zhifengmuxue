@@ -22,25 +22,10 @@ What excites me:
 
 
 
-## 🔥 Skills & Stats / 技能与统计
+## 🔥 Code & Stats / 编码与统计
 
-
-![](https://skillicons.dev/icons?i=java,rust,python,spring,docker,kubernetes,redis,postgres,nginx)
-![](https://skillicons.dev/icons?i=ts,react,vue,git,github,linux)
-
-
-<table>
-  <tr>
-    <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=zhifengmuxue&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="My GitHub Stats" />
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifengmuxue&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zfmx)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
