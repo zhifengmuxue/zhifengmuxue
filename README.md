@@ -24,6 +24,38 @@ What excites me:
 ## 🔥 Code & Stats / 编码与统计
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 192 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/06/2025 16:00:06 UTC
 <!--END_SECTION:waka-->
 
 
