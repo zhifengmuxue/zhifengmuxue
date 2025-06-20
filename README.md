@@ -30,7 +30,7 @@ What excites me:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2025
+> 🏆 204 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,9 +65,10 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 18 mins       █████████████████░░░░░░░░   69.75 % 
-Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+C++                      47 mins             ████████████████████████░   94.95 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +88,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 16:12:56 UTC
+ Last Updated on 20/06/2025 16:13:00 UTC
 <!--END_SECTION:waka-->
 
 
