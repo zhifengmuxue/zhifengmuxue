@@ -65,11 +65,7 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     30 mins             ████████████░░░░░░░░░░░░░   49.05 % 
-HTML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-HTTP Request             9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -89,7 +85,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 16:12:49 UTC
+ Last Updated on 09/08/2025 16:12:33 UTC
 <!--END_SECTION:waka-->
 
 
