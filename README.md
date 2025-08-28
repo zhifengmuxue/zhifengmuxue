@@ -30,8 +30,6 @@ What excites me:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -65,9 +63,9 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      5 hrs 14 mins       ████████████████████████░   97.04 % 
-PostScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TeX                      2 hrs 9 mins        ████████████████████████░   94.16 % 
+PostScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +85,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 16:13:02 UTC
+ Last Updated on 28/08/2025 16:13:17 UTC
 <!--END_SECTION:waka-->
 
 
