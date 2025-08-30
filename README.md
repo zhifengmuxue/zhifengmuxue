@@ -30,44 +30,12 @@ What excites me:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-🌆 Daytime                152 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌃 Evening                275 commits         ██████████████░░░░░░░░░░░   57.17 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Sunday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -85,7 +53,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 16:12:42 UTC
+ Last Updated on 30/08/2025 16:11:00 UTC
 <!--END_SECTION:waka-->
 
 
