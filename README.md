@@ -65,8 +65,8 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      2 hrs 46 mins       █████████████████████████   99.91 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TeX                      3 hrs 45 mins       █████████████████████████   99.93 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Java** 
@@ -86,7 +86,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 16:12:12 UTC
+ Last Updated on 06/09/2025 16:10:57 UTC
 <!--END_SECTION:waka-->
 
 
