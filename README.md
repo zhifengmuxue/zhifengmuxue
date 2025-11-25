@@ -30,6 +30,8 @@ What excites me:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 308 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -83,7 +85,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 16:12:43 UTC
+ Last Updated on 25/11/2025 16:14:52 UTC
 <!--END_SECTION:waka-->
 
 
