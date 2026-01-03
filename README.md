@@ -24,13 +24,13 @@ What excites me:
 ## 🔥 Code & Stats / 编码与统计
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347.50%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-349.46%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,11 +41,11 @@ What excites me:
 **I Mostly Code in Java** 
 
 ```text
-Java                     9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
@@ -55,7 +55,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 16:13:45 UTC
+ Last Updated on 03/01/2026 16:12:54 UTC
 <!--END_SECTION:waka-->
 
 
