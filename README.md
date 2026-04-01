@@ -65,8 +65,7 @@ Sunday                   128 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     12 mins             ██████████████████░░░░░░░   73.08 % 
-C++                      4 mins              ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+C++                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -86,7 +85,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2026 16:46:51 UTC
+ Last Updated on 01/04/2026 16:43:25 UTC
 <!--END_SECTION:waka-->
 
 
