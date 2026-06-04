@@ -19,6 +19,7 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: false
           SHOW_PROFILE_VIEWS: false
+          SHOW_SHORT_INFO: false
           SHOW_EDITORS: false
           SHOW_PROJECTS: false
           SHOW_OS: false
