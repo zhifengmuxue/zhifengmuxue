@@ -62,8 +62,7 @@ Sunday                   118 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      16 mins             ████████████████████████░   94.54 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +88,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zhifengmuxue/zhifengmuxue/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 16:41:41 UTC
+ Last Updated on 11/08/2026 16:44:57 UTC
 <!--END_SECTION:waka-->
 
 
